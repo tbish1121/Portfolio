@@ -6,7 +6,7 @@ const Home = () => {
     return (
         <div className="home">
             <Container className="py-5">
-                <h1 className="fs-1">Welcome</h1>
+                <h1 className="fs-1">Welcome!</h1>
                 <p className="fs-3">Hi there, my name is Taylor! I'm from the Erie, Pennsylvania area and I'm currently interested in a Full-Stack Developer role.</p>
                 <div className="home-divider"></div>
                 <div className="skills">
@@ -30,7 +30,7 @@ const Home = () => {
                         </div>
                     </div>
                     <h3 className="pt-2 pb-2">About Me</h3>
-                    <p className="fs-4">I've been self teaching myself how to code for about a year and a half. The more I expand my development skills, the more I love programming. I recently started pursuing my B.S. in Computer Science with Western Governor University. I love learning new things, and using new development technologies. Feel free to check out my projects, and if you feel I may be a good fit for your company please reach out!</p>
+                    <p className="fs-4">I've been self-teaching myself how to code for about a year and a half. The more I expand my development skills, the more I love programming. I recently started pursuing my B.S. in Computer Science with Western Governor University. I love learning new things and using new development technologies. Feel free to check out my projects, and if you feel I may be a good fit for your company, please reach out!</p>
                 </div>
                 
             </Container>
