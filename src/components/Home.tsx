@@ -5,7 +5,7 @@ import { Icon } from '@iconify/react';
 const Home = () => {
     return (
         <div className="home">
-            <Container className="py-5">
+            <Container className="py-5 mt-5">
                 <h1 className="fs-1">Welcome!</h1>
                 <p className="fs-3">Hi there, my name is Taylor! I'm from the Erie, Pennsylvania area and I'm currently interested in a Full-Stack Developer role.</p>
                 <div className="home-divider"></div>

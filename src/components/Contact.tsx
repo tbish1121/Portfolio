@@ -23,10 +23,23 @@ const Contact = () => {
                     Submit
                 </Button>
             </Form>
+            
+            <div className="socials d-flex flex-column justify-content-between mt-5">
+                <div className="d-flex justify-content-center">
+                    <h5>Links:</h5>    
+                </div>
 
-            <div className="socials d-flex justify-content-between mt-5"> 
-                    <Icon className="mx-2" icon="fa:github-square" width="40" height="40" /> 
-                <Icon className="mx-2" icon="logos:linkedin-icon" width="40" height="40" />
+                <div className="mt-2">
+                    <button className="social-link-button">
+                        <Icon className="mx-2" icon="fa:github-square" width="40" height="40" /> 
+                    </button>
+
+                    <button className="social-link-button">
+                        <Icon className="mx-2" icon="logos:linkedin-icon" width="40" height="40" />
+                    </button>
+                    
+                </div>
+                    
             </div>
         </div>
     )
