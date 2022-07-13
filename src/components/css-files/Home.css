@@ -3,3 +3,9 @@
     height: 10px;
     background: rgb(180, 179, 179);
 }
+
+@media only screen and (max-width: 600px) {
+    .icons {
+      flex-direction: column;
+    }
+  }

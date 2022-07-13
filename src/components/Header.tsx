@@ -4,8 +4,8 @@ import {Navbar, Container, Nav} from 'react-bootstrap';
 const Header = () => {
     return (
         <div className="header">
-            <Navbar bg="dark" variant="dark" className="me-auto d-flex justify-content-between">
-                <Container>
+            <Navbar bg="dark" variant="dark" expand="sm" className="me-auto d-flex justify-content-between">
+                <Container className="f">
                     <Navbar.Brand className="fs-3" href="">Taylor Bish</Navbar.Brand>
                     <Nav>
                         <LinkContainer to="/">

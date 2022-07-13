@@ -3,3 +3,11 @@
     background: none;
     color: none;
 }
+
+a {
+    text-decoration: none;
+}
+
+.contact > * {
+    font-size: 20px;
+}
