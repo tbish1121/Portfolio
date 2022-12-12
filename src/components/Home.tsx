@@ -30,7 +30,7 @@ const Home = () => {
                         </div>
                     </div>
                     <h3 className="pt-2 pb-2">About Me</h3>
-                    <p className="fs-4">I've been self-teaching myself how to code for about a year and a half, and I recently started pursuing a Bachlors in Computer Science at Western Governors University. The more I expand my development skills, the more I love programming. I love learning new things and using new development technologies. Feel free to check out my projects, and if you feel I may be a good fit for your company, please reach out!</p>
+                    <p className="fs-4">I've been self-teaching myself how to code for about a year and a half, and I recently started pursuing a Bachelors in Computer Science at Western Governors University. The more I expand my development skills, the more I love programming. I love learning new things and using new development technologies. Feel free to check out my projects, and if you feel I may be a good fit for your company, please reach out!</p>
                 </div>
                 
             </Container>
